@@ -1,4 +1,4 @@
-package net.serashard;
+package net.serashard.abyss;
 
 import net.fabricmc.api.ModInitializer;
 

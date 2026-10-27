@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.serashard.Abyss"
+          "net.serashard.abyss.Abyss"
 		]
 	},
 	"mixins": [
